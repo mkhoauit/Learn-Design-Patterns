@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\ref\LearnAdapter.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\bin\Debug\net5.0\LearnAdapter.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\ref\LearnAdapter.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.genruntimeconfig.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnAdapter\obj\Debug\net5.0\LearnAdapter.csproj.AssemblyReference.cache

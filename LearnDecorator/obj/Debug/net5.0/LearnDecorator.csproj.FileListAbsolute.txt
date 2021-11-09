@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\ref\LearnDecorator.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\bin\Debug\net5.0\LearnDecorator.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\ref\LearnDecorator.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDecorator\obj\Debug\net5.0\LearnDecorator.genruntimeconfig.cache

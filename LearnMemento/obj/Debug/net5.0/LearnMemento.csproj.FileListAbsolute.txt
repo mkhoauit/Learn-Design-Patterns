@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\ref\LearnMemento.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\bin\Debug\net5.0\LearnMemento.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\ref\LearnMemento.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnMemento\obj\Debug\net5.0\LearnMemento.genruntimeconfig.cache

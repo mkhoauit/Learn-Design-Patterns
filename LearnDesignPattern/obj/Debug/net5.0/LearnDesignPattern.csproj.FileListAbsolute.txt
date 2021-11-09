@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\ref\LearnDesignPattern.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\bin\Debug\net5.0\LearnDesignPattern.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\ref\LearnDesignPattern.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnDesignPattern\obj\Debug\net5.0\LearnDesignPattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\ref\LearnObserver.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\bin\Debug\net5.0\LearnObserver.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\ref\LearnObserver.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnObserver\obj\Debug\net5.0\LearnObserver.genruntimeconfig.cache
