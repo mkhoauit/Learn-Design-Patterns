@@ -8,7 +8,7 @@ namespace LearnDesignPattern
     // types: AbstractFactory and AbstractProduct. This lets you pass any
     // factory or product subclass to the client code without breaking it.
     
-
+//LearnFactory
     class Program
     {
         static void Main(string[] args)
