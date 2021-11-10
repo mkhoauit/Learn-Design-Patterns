@@ -1,0 +1,15 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\ref\LearnProxy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\bin\Debug\net5.0\LearnProxy.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\ref\LearnProxy.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnProxy\obj\Debug\net5.0\LearnProxy.genruntimeconfig.cache
