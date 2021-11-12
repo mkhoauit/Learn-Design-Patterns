@@ -1,0 +1,16 @@
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.exe
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.deps.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.runtimeconfig.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.runtimeconfig.dev.json
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\ref\LearnIterator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\bin\Debug\net5.0\LearnIterator2.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.csproj.AssemblyReference.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.AssemblyInfoInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.AssemblyInfo.cs
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.csproj.CoreCompileInputs.cache
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\ref\LearnIterator2.dll
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.pdb
+C:\Users\minhk\source\repos\LearnDesignPattern\LearnIterator2\obj\Debug\net5.0\LearnIterator2.genruntimeconfig.cache
